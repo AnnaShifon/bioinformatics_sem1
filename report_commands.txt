@@ -1,0 +1,10 @@
+  642  git status
+  643  git add ammend.txt
+  644  git status
+  645  git commit -m "task8"
+  646  git log
+  647  git push origin master
+  650  history | grep "git "
+  654  history | grep "git " > git_commands.txt
+  655  git status
+  657  git status
