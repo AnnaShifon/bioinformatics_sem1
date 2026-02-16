@@ -1,0 +1,8 @@
+(bio_advanced) anna.shifon@MacBook-Air-Anna Homework2 % ls -la report.txt
+ls: report.txt: No such file or directory
+(bio_advanced) anna.shifon@MacBook-Air-Anna Homework2 % ./file_manager.sh
+File not found, creating...
+(bio_advanced) anna.shifon@MacBook-Air-Anna Homework2 % ls -la report.txt
+-rw-r--r--  1 anna.shifon  staff  0 Feb 16 21:49 report.txt
+(bio_advanced) anna.shifon@MacBook-Air-Anna Homework2 % ./file_manager.sh
+File exists, removing...
