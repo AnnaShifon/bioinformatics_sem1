@@ -1,0 +1,5 @@
+22:19  up 37 days, 19 hrs, 2 users, load averages: 2.18 1.92 1.69
+USER       TTY      FROM    LOGIN@  IDLE WHAT
+anna.shifo console  -      10Jan26 37days -
+anna.shifo s000     -      18:58       - w
+uid=501(anna.shifon) gid=20(staff) groups=20(staff),12(everyone),61(localaccounts),79(_appserverusr),80(admin),81(_appserveradm),701(com.apple.sharepoint.group.1),33(_appstore),98(_lpadmin),100(_lpoperator),204(_developer),250(_analyticsusers),395(com.apple.access_ftp),398(com.apple.access_screensharing),399(com.apple.access_ssh),400(com.apple.access_remote_ae)
