@@ -1,0 +1,4 @@
+(bio_advanced) anna.shifon@MacBook-Air-Anna Homework2 % ./greeter.sh Anna
+Error: Not enough arguments provided
+(bio_advanced) anna.shifon@MacBook-Air-Anna Homework2 % ./greeter.sh Anna Shifon Math302
+Welcome, Anna Shifon from group Math302!
